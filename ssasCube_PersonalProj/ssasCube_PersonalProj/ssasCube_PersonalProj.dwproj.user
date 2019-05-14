@@ -3,7 +3,7 @@
     <Configuration>
       <Name>Development</Name>
       <Options>
-        <TargetServer>localhost</TargetServer>
+        <TargetServer>PEIRANLIU17B7\MULTIFORPRACTICE</TargetServer>
         <TargetDatabase>ssasCube_PersonalProj</TargetDatabase>
         <StartObject>
           <ObjectId></ObjectId>

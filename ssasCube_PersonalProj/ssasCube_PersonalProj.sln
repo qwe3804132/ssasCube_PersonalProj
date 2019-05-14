@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.271
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{D2ABAB84-BF74-430A-B69E-9DC6D40DDA17}") = "ssasCube_PersonalProj", "ssasCube_PersonalProj\ssasCube_PersonalProj.dwproj", "{A6A97809-C9FC-447E-80A0-84CE111360CB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Development|Default = Development|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A6A97809-C9FC-447E-80A0-84CE111360CB}.Development|Default.ActiveCfg = Development
+		{A6A97809-C9FC-447E-80A0-84CE111360CB}.Development|Default.Build.0 = Development
+		{A6A97809-C9FC-447E-80A0-84CE111360CB}.Development|Default.Deploy.0 = Development
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E30F8D3C-4936-488E-AEFA-A9A050842CDA}
+	EndGlobalSection
+EndGlobal

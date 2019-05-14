@@ -6,6 +6,24 @@
     <Name>ssasCube_PersonalProj.database</Name>
     <FullPath>ssasCube_PersonalProj.database</FullPath>
   </Database>
+  <Cubes>
+    <ProjectItem>
+      <Name>My First Sales Cube.cube</Name>
+      <FullPath>My First Sales Cube.cube</FullPath>
+      <Dependencies>
+        <ProjectItem>
+          <Name>My First Sales Cube.partitions</Name>
+          <FullPath>My First Sales Cube.partitions</FullPath>
+        </ProjectItem>
+      </Dependencies>
+    </ProjectItem>
+  </Cubes>
+  <Dimensions>
+    <ProjectItem>
+      <Name>Sales Order Header.dim</Name>
+      <FullPath>Sales Order Header.dim</FullPath>
+    </ProjectItem>
+  </Dimensions>
   <DataSources>
     <ProjectItem>
       <Name>Adventure Works2014.ds</Name>

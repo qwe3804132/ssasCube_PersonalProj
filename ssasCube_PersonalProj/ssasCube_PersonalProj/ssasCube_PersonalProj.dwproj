@@ -6,10 +6,37 @@
     <Name>ssasCube_PersonalProj.database</Name>
     <FullPath>ssasCube_PersonalProj.database</FullPath>
   </Database>
+  <DataSources>
+    <ProjectItem>
+      <Name>Adventure Works2014.ds</Name>
+      <FullPath>Adventure Works2014.ds</FullPath>
+    </ProjectItem>
+  </DataSources>
+  <DataSourceViews>
+    <ProjectItem>
+      <Name>Sales Data Srouce View.dsv</Name>
+      <FullPath>Sales Data Srouce View.dsv</FullPath>
+    </ProjectItem>
+  </DataSourceViews>
   <Configurations>
     <Configuration>
       <Name>Development</Name>
-      <Options />
+      <Options>
+        <ConnectionMappings>
+          <ConfigurationSetting>
+            <Id>Adventure Works2014</Id>
+            <Name>Adventure Works2014</Name>
+            <Value xsi:type="xsd:string">Provider=SQLNCLI11.1;Data Source=PEIRANLIU17B7;Integrated Security=SSPI;Initial Catalog=AdventureWorks2014</Value>
+          </ConfigurationSetting>
+        </ConnectionMappings>
+        <ConnectionSecurityMappings>
+          <ConfigurationSetting>
+            <Id>Adventure Works2014</Id>
+            <Name>Adventure Works2014</Name>
+            <Value xsi:type="xsd:int">0</Value>
+          </ConfigurationSetting>
+        </ConnectionSecurityMappings>
+      </Options>
     </Configuration>
   </Configurations>
 </Project>

@@ -1,102 +1,27 @@
 ﻿<Infos>
-  <Item name="Sales Order Header.dim">
-    <Time>636934366625376826</Time>
+  <Item name="Adventure Works2014.ds">
+    <Time>636934374380656869</Time>
     <Hash length="20">
-      <b>185</b>
-      <b>161</b>
-      <b>166</b>
-      <b>141</b>
-      <b>108</b>
-      <b>184</b>
+      <b>160</b>
       <b>21</b>
-      <b>194</b>
-      <b>15</b>
-      <b>238</b>
-      <b>249</b>
-      <b>226</b>
-      <b>35</b>
-      <b>26</b>
-      <b>37</b>
-      <b>135</b>
-      <b>151</b>
-      <b>140</b>
-      <b>10</b>
-      <b>142</b>
-    </Hash>
-  </Item>
-  <Item name="Sales Data Srouce View.dsv">
-    <Time>636934612110716088</Time>
-    <Hash length="20">
-      <b>105</b>
-      <b>46</b>
-      <b>143</b>
-      <b>149</b>
-      <b>144</b>
-      <b>105</b>
-      <b>28</b>
-      <b>250</b>
-      <b>197</b>
-      <b>46</b>
-      <b>171</b>
-      <b>151</b>
       <b>155</b>
-      <b>20</b>
-      <b>248</b>
-      <b>173</b>
-      <b>148</b>
-      <b>46</b>
-      <b>17</b>
-      <b>72</b>
-    </Hash>
-  </Item>
-  <Item name="ssasCube_PersonalProj.database">
-    <Time>636934332918852081</Time>
-    <Hash length="20">
-      <b>12</b>
-      <b>17</b>
-      <b>118</b>
-      <b>255</b>
-      <b>78</b>
-      <b>184</b>
-      <b>33</b>
-      <b>133</b>
-      <b>43</b>
-      <b>20</b>
-      <b>8</b>
-      <b>130</b>
-      <b>194</b>
-      <b>116</b>
-      <b>50</b>
-      <b>71</b>
-      <b>24</b>
-      <b>17</b>
-      <b>63</b>
-      <b>188</b>
-    </Hash>
-  </Item>
-  <Item name="Adventure Works DW2014 Product Cube.partitions">
-    <Time>636935147734655085</Time>
-    <Hash length="20">
-      <b>210</b>
-      <b>197</b>
-      <b>221</b>
-      <b>235</b>
-      <b>157</b>
-      <b>107</b>
-      <b>134</b>
-      <b>1</b>
-      <b>109</b>
+      <b>83</b>
+      <b>229</b>
+      <b>95</b>
+      <b>203</b>
+      <b>186</b>
+      <b>30</b>
+      <b>222</b>
+      <b>213</b>
+      <b>247</b>
+      <b>243</b>
+      <b>185</b>
+      <b>90</b>
       <b>56</b>
-      <b>3</b>
-      <b>171</b>
-      <b>242</b>
-      <b>119</b>
-      <b>201</b>
-      <b>80</b>
-      <b>232</b>
-      <b>223</b>
-      <b>22</b>
-      <b>124</b>
+      <b>252</b>
+      <b>158</b>
+      <b>188</b>
+      <b>250</b>
     </Hash>
   </Item>
   <Item name="Dim Product.dim">
@@ -124,54 +49,179 @@
       <b>137</b>
     </Hash>
   </Item>
-  <Item name="Adventure Works2014.ds">
-    <Time>636934374380656869</Time>
+  <Item name="Sales Order Header.dim">
+    <Time>636934366625376826</Time>
     <Hash length="20">
-      <b>160</b>
-      <b>21</b>
-      <b>155</b>
-      <b>83</b>
-      <b>229</b>
-      <b>95</b>
-      <b>203</b>
-      <b>186</b>
-      <b>30</b>
-      <b>222</b>
-      <b>213</b>
-      <b>247</b>
-      <b>243</b>
       <b>185</b>
-      <b>90</b>
-      <b>56</b>
-      <b>252</b>
-      <b>158</b>
-      <b>188</b>
-      <b>250</b>
+      <b>161</b>
+      <b>166</b>
+      <b>141</b>
+      <b>108</b>
+      <b>184</b>
+      <b>21</b>
+      <b>194</b>
+      <b>15</b>
+      <b>238</b>
+      <b>249</b>
+      <b>226</b>
+      <b>35</b>
+      <b>26</b>
+      <b>37</b>
+      <b>135</b>
+      <b>151</b>
+      <b>140</b>
+      <b>10</b>
+      <b>142</b>
     </Hash>
   </Item>
-  <Item name="Adventure Works DW2014.ds">
-    <Time>636935141356894967</Time>
+  <Item name="Adventure Works DW2014 Product Cube.cube">
+    <Time>636935156945764981</Time>
     <Hash length="20">
-      <b>62</b>
-      <b>157</b>
-      <b>47</b>
-      <b>153</b>
+      <b>53</b>
+      <b>171</b>
+      <b>63</b>
+      <b>52</b>
       <b>39</b>
-      <b>239</b>
-      <b>44</b>
-      <b>226</b>
-      <b>192</b>
-      <b>135</b>
-      <b>95</b>
-      <b>128</b>
-      <b>129</b>
-      <b>182</b>
-      <b>141</b>
+      <b>76</b>
+      <b>106</b>
+      <b>69</b>
+      <b>5</b>
+      <b>249</b>
+      <b>54</b>
+      <b>223</b>
+      <b>71</b>
+      <b>32</b>
+      <b>133</b>
+      <b>137</b>
+      <b>85</b>
+      <b>134</b>
+      <b>5</b>
+      <b>58</b>
+    </Hash>
+  </Item>
+  <Item name="Adventure Works DW2014 Product Cube.partitions">
+    <Time>636935147734655085</Time>
+    <Hash length="20">
+      <b>210</b>
+      <b>197</b>
+      <b>221</b>
+      <b>235</b>
+      <b>157</b>
+      <b>107</b>
+      <b>134</b>
+      <b>1</b>
+      <b>109</b>
+      <b>56</b>
+      <b>3</b>
+      <b>171</b>
+      <b>242</b>
+      <b>119</b>
+      <b>201</b>
+      <b>80</b>
       <b>232</b>
-      <b>244</b>
-      <b>163</b>
-      <b>84</b>
-      <b>67</b>
+      <b>223</b>
+      <b>22</b>
+      <b>124</b>
+    </Hash>
+  </Item>
+  <Item name="ssasCube_PersonalProj.database">
+    <Time>636934332918852081</Time>
+    <Hash length="20">
+      <b>12</b>
+      <b>17</b>
+      <b>118</b>
+      <b>255</b>
+      <b>78</b>
+      <b>184</b>
+      <b>33</b>
+      <b>133</b>
+      <b>43</b>
+      <b>20</b>
+      <b>8</b>
+      <b>130</b>
+      <b>194</b>
+      <b>116</b>
+      <b>50</b>
+      <b>71</b>
+      <b>24</b>
+      <b>17</b>
+      <b>63</b>
+      <b>188</b>
+    </Hash>
+  </Item>
+  <Item name="Ship Method.dim">
+    <Time>636934615081191140</Time>
+    <Hash length="20">
+      <b>222</b>
+      <b>170</b>
+      <b>26</b>
+      <b>33</b>
+      <b>110</b>
+      <b>73</b>
+      <b>180</b>
+      <b>149</b>
+      <b>136</b>
+      <b>160</b>
+      <b>101</b>
+      <b>14</b>
+      <b>253</b>
+      <b>7</b>
+      <b>75</b>
+      <b>201</b>
+      <b>197</b>
+      <b>113</b>
+      <b>226</b>
+      <b>229</b>
+    </Hash>
+  </Item>
+  <Item name="My First Sales Cube.cube">
+    <Time>636934635589956053</Time>
+    <Hash length="20">
+      <b>142</b>
+      <b>74</b>
+      <b>59</b>
+      <b>153</b>
+      <b>123</b>
+      <b>101</b>
+      <b>121</b>
+      <b>10</b>
+      <b>192</b>
+      <b>182</b>
+      <b>75</b>
+      <b>245</b>
+      <b>223</b>
+      <b>94</b>
+      <b>171</b>
+      <b>19</b>
+      <b>127</b>
+      <b>62</b>
+      <b>34</b>
+      <b>102</b>
+    </Hash>
+  </Item>
+  <Item name="Sales Data Srouce View.dsv">
+    <Time>636934612110716088</Time>
+    <Hash length="20">
+      <b>105</b>
+      <b>46</b>
+      <b>143</b>
+      <b>149</b>
+      <b>144</b>
+      <b>105</b>
+      <b>28</b>
+      <b>250</b>
+      <b>197</b>
+      <b>46</b>
+      <b>171</b>
+      <b>151</b>
+      <b>155</b>
+      <b>20</b>
+      <b>248</b>
+      <b>173</b>
+      <b>148</b>
+      <b>46</b>
+      <b>17</b>
+      <b>72</b>
     </Hash>
   </Item>
   <Item name="My First Sales Cube.partitions">
@@ -200,103 +250,78 @@
     </Hash>
   </Item>
   <Item name="Adventure Works DW2014 View.dsv">
-    <Time>636935146391189962</Time>
+    <Time>636935169314699979</Time>
     <Hash length="20">
-      <b>65</b>
-      <b>170</b>
-      <b>229</b>
-      <b>119</b>
-      <b>197</b>
-      <b>82</b>
-      <b>111</b>
-      <b>253</b>
-      <b>237</b>
-      <b>249</b>
-      <b>78</b>
-      <b>224</b>
-      <b>251</b>
-      <b>23</b>
-      <b>110</b>
-      <b>224</b>
-      <b>68</b>
-      <b>127</b>
-      <b>153</b>
-      <b>252</b>
-    </Hash>
-  </Item>
-  <Item name="My First Sales Cube.cube">
-    <Time>636934635589956053</Time>
-    <Hash length="20">
-      <b>142</b>
-      <b>74</b>
-      <b>59</b>
-      <b>153</b>
-      <b>123</b>
-      <b>101</b>
-      <b>121</b>
-      <b>10</b>
-      <b>192</b>
-      <b>182</b>
-      <b>75</b>
-      <b>245</b>
-      <b>223</b>
-      <b>94</b>
-      <b>171</b>
-      <b>19</b>
-      <b>127</b>
-      <b>62</b>
-      <b>34</b>
-      <b>102</b>
-    </Hash>
-  </Item>
-  <Item name="Ship Method.dim">
-    <Time>636934615081191140</Time>
-    <Hash length="20">
+      <b>147</b>
+      <b>45</b>
+      <b>131</b>
       <b>222</b>
-      <b>170</b>
-      <b>26</b>
-      <b>33</b>
-      <b>110</b>
-      <b>73</b>
-      <b>180</b>
-      <b>149</b>
-      <b>136</b>
-      <b>160</b>
-      <b>101</b>
-      <b>14</b>
-      <b>253</b>
-      <b>7</b>
-      <b>75</b>
-      <b>201</b>
-      <b>197</b>
       <b>113</b>
-      <b>226</b>
-      <b>229</b>
+      <b>191</b>
+      <b>216</b>
+      <b>232</b>
+      <b>148</b>
+      <b>36</b>
+      <b>146</b>
+      <b>200</b>
+      <b>253</b>
+      <b>171</b>
+      <b>211</b>
+      <b>182</b>
+      <b>56</b>
+      <b>192</b>
+      <b>22</b>
+      <b>167</b>
     </Hash>
   </Item>
-  <Item name="Adventure Works DW2014 Product Cube.cube">
-    <Time>636935156945764981</Time>
+  <Item name="Dim Date.dim">
+    <Time>636935205246119976</Time>
     <Hash length="20">
-      <b>53</b>
-      <b>171</b>
+      <b>231</b>
+      <b>5</b>
+      <b>12</b>
+      <b>128</b>
+      <b>15</b>
+      <b>243</b>
+      <b>13</b>
+      <b>13</b>
+      <b>114</b>
       <b>63</b>
-      <b>52</b>
+      <b>115</b>
+      <b>193</b>
+      <b>97</b>
+      <b>63</b>
       <b>39</b>
-      <b>76</b>
-      <b>106</b>
-      <b>69</b>
-      <b>5</b>
-      <b>249</b>
-      <b>54</b>
-      <b>223</b>
-      <b>71</b>
-      <b>32</b>
-      <b>133</b>
-      <b>137</b>
-      <b>85</b>
-      <b>134</b>
-      <b>5</b>
-      <b>58</b>
+      <b>25</b>
+      <b>126</b>
+      <b>93</b>
+      <b>63</b>
+      <b>94</b>
+    </Hash>
+  </Item>
+  <Item name="Adventure Works DW2014.ds">
+    <Time>636935141356894967</Time>
+    <Hash length="20">
+      <b>62</b>
+      <b>157</b>
+      <b>47</b>
+      <b>153</b>
+      <b>39</b>
+      <b>239</b>
+      <b>44</b>
+      <b>226</b>
+      <b>192</b>
+      <b>135</b>
+      <b>95</b>
+      <b>128</b>
+      <b>129</b>
+      <b>182</b>
+      <b>141</b>
+      <b>232</b>
+      <b>244</b>
+      <b>163</b>
+      <b>84</b>
+      <b>67</b>
     </Hash>
   </Item>
 </Infos>

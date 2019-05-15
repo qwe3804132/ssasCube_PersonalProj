@@ -30,6 +30,9 @@
       <Dimension>
         <ID>Dim Product</ID>
       </Dimension>
+      <Dimension>
+        <ID>Dim Date</ID>
+      </Dimension>
     </Dimensions>
     <Cubes>
       <Cube>

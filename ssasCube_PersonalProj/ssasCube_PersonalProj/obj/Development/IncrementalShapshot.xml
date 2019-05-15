@@ -26,7 +26,7 @@
       </ObjectSnapshot>
       <ObjectSnapshot>
         <Type>Microsoft.AnalysisServices.DataSourceView</Type>
-        <TimeStamp>qfkOp0Ee0vJ0RKF0T8fYBQwILog=2019-05-14 1:13:52 PM2019-05-14 1:02:03 PM</TimeStamp>
+        <TimeStamp>aS6PlZBpHPrFLquXmxT4rZQuEUg=2019-05-14 8:06:51 PM2019-05-14 1:02:03 PM</TimeStamp>
         <ID>
           <String>Sales Data Srouce View</String>
         </ID>
@@ -39,8 +39,15 @@
         </ID>
       </ObjectSnapshot>
       <ObjectSnapshot>
+        <Type>Microsoft.AnalysisServices.Dimension</Type>
+        <TimeStamp>3qoaIW5JtJWIoGUO/QdLycVx4uU=2019-05-14 8:11:48 PM2019-05-14 8:11:48 PM</TimeStamp>
+        <ID>
+          <String>Ship Method</String>
+        </ID>
+      </ObjectSnapshot>
+      <ObjectSnapshot>
         <Type>Microsoft.AnalysisServices.Cube</Type>
-        <TimeStamp>pnF6gfHjV591eaiDO2j2SwD+nn4=2019-05-14 1:18:13 PM2019-05-14 1:17:42 PMHPOLdbbpVGzeejZ6smH7AlBcXng=2019-05-14 1:17:42 PM2019-05-14 1:17:42 PM</TimeStamp>
+        <TimeStamp>zFnbLZwUT4BgsZCJ0AYT4xGxhzY=2019-05-14 8:21:55 PM2019-05-14 1:17:42 PMHPOLdbbpVGzeejZ6smH7AlBcXng=2019-05-14 1:17:42 PM2019-05-14 1:17:42 PM</TimeStamp>
         <ID>
           <String>My First Sales Cube</String>
         </ID>
@@ -57,5 +64,5 @@
   </Snapshot>
   <AssemblyLocations />
   <ProcessingComplete>true</ProcessingComplete>
-  <LastDeployed>2019-05-14T17:30:43.933333Z</LastDeployed>
+  <LastDeployed>2019-05-15T00:24:52.27Z</LastDeployed>
 </DeploymentSnapshot>

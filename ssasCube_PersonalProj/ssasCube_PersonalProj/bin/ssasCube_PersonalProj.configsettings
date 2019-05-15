@@ -15,6 +15,9 @@
       <Dimension>
         <ID>Sales Order Header</ID>
       </Dimension>
+      <Dimension>
+        <ID>Ship Method</ID>
+      </Dimension>
     </Dimensions>
     <Cubes>
       <Cube>

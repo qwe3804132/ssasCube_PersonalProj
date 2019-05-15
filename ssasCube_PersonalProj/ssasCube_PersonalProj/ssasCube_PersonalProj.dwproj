@@ -23,6 +23,10 @@
       <Name>Sales Order Header.dim</Name>
       <FullPath>Sales Order Header.dim</FullPath>
     </ProjectItem>
+    <ProjectItem>
+      <Name>Ship Method.dim</Name>
+      <FullPath>Ship Method.dim</FullPath>
+    </ProjectItem>
   </Dimensions>
   <DataSources>
     <ProjectItem>

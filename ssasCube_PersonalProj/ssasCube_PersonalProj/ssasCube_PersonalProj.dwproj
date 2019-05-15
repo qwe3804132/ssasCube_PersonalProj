@@ -17,6 +17,16 @@
         </ProjectItem>
       </Dependencies>
     </ProjectItem>
+    <ProjectItem>
+      <Name>Adventure Works DW2014 Product Cube.cube</Name>
+      <FullPath>Adventure Works DW2014 Product Cube.cube</FullPath>
+      <Dependencies>
+        <ProjectItem>
+          <Name>Adventure Works DW2014 Product Cube.partitions</Name>
+          <FullPath>Adventure Works DW2014 Product Cube.partitions</FullPath>
+        </ProjectItem>
+      </Dependencies>
+    </ProjectItem>
   </Cubes>
   <Dimensions>
     <ProjectItem>
@@ -27,17 +37,29 @@
       <Name>Ship Method.dim</Name>
       <FullPath>Ship Method.dim</FullPath>
     </ProjectItem>
+    <ProjectItem>
+      <Name>Dim Product.dim</Name>
+      <FullPath>Dim Product.dim</FullPath>
+    </ProjectItem>
   </Dimensions>
   <DataSources>
     <ProjectItem>
       <Name>Adventure Works2014.ds</Name>
       <FullPath>Adventure Works2014.ds</FullPath>
     </ProjectItem>
+    <ProjectItem>
+      <Name>Adventure Works DW2014.ds</Name>
+      <FullPath>Adventure Works DW2014.ds</FullPath>
+    </ProjectItem>
   </DataSources>
   <DataSourceViews>
     <ProjectItem>
       <Name>Sales Data Srouce View.dsv</Name>
       <FullPath>Sales Data Srouce View.dsv</FullPath>
+    </ProjectItem>
+    <ProjectItem>
+      <Name>Adventure Works DW2014 View.dsv</Name>
+      <FullPath>Adventure Works DW2014 View.dsv</FullPath>
     </ProjectItem>
   </DataSourceViews>
   <Roles>
@@ -56,11 +78,21 @@
             <Name>Adventure Works2014</Name>
             <Value xsi:type="xsd:string">Provider=SQLNCLI11.1;Data Source=PEIRANLIU17B7;Integrated Security=SSPI;Initial Catalog=AdventureWorks2014</Value>
           </ConfigurationSetting>
+          <ConfigurationSetting>
+            <Id>Adventure Works DW2014</Id>
+            <Name>Adventure Works DW2014</Name>
+            <Value xsi:type="xsd:string">Provider=SQLNCLI11.1;Data Source=PEIRANLIU17B7;Integrated Security=SSPI;Initial Catalog=AdventureWorksDW2014</Value>
+          </ConfigurationSetting>
         </ConnectionMappings>
         <ConnectionSecurityMappings>
           <ConfigurationSetting>
             <Id>Adventure Works2014</Id>
             <Name>Adventure Works2014</Name>
+            <Value xsi:type="xsd:int">0</Value>
+          </ConfigurationSetting>
+          <ConfigurationSetting>
+            <Id>Adventure Works DW2014</Id>
+            <Name>Adventure Works DW2014</Name>
             <Value xsi:type="xsd:int">0</Value>
           </ConfigurationSetting>
         </ConnectionSecurityMappings>

@@ -10,6 +10,15 @@
           <ImpersonationInfoSecurity xmlns="http://schemas.microsoft.com/analysisservices/2003/engine">PasswordRemoved</ImpersonationInfoSecurity>
         </ImpersonationInfo>
       </DataSource>
+      <DataSource>
+        <ID>Adventure Works DW2014</ID>
+        <ConnectionString>Provider=SQLNCLI11.1;Data Source=PEIRANLIU17B7;Integrated Security=SSPI;Initial Catalog=AdventureWorksDW2014</ConnectionString>
+        <ImpersonationInfo>
+          <ImpersonationMode xmlns="http://schemas.microsoft.com/analysisservices/2003/engine">ImpersonateAccount</ImpersonationMode>
+          <Account xmlns="http://schemas.microsoft.com/analysisservices/2003/engine">liupeiran9324@outlook.com</Account>
+          <ImpersonationInfoSecurity xmlns="http://schemas.microsoft.com/analysisservices/2003/engine">PasswordRemoved</ImpersonationInfoSecurity>
+        </ImpersonationInfo>
+      </DataSource>
     </DataSources>
     <Dimensions>
       <Dimension>
@@ -17,6 +26,9 @@
       </Dimension>
       <Dimension>
         <ID>Ship Method</ID>
+      </Dimension>
+      <Dimension>
+        <ID>Dim Product</ID>
       </Dimension>
     </Dimensions>
     <Cubes>
@@ -28,6 +40,19 @@
             <Partitions>
               <Partition>
                 <ID>Sales Order Header</ID>
+              </Partition>
+            </Partitions>
+          </MeasureGroup>
+        </MeasureGroups>
+      </Cube>
+      <Cube>
+        <ID>Adventure Works DW2014 Product Cube</ID>
+        <MeasureGroups>
+          <MeasureGroup>
+            <ID>Fact Product Inventory</ID>
+            <Partitions>
+              <Partition>
+                <ID>Fact Product Inventory</ID>
               </Partition>
             </Partitions>
           </MeasureGroup>

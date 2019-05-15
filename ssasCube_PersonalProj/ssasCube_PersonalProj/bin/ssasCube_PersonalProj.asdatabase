@@ -343,6 +343,7 @@
           </Attributes>
         </Dimension>
       </Dimensions>
+      <DefaultMeasure>[Measures].[Total Due]</DefaultMeasure>
       <MeasureGroups>
         <MeasureGroup>
           <ID>Sales Order Header</ID>

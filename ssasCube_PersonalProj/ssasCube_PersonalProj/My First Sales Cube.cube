@@ -121,6 +121,7 @@
       </Attributes>
     </Dimension>
   </Dimensions>
+  <DefaultMeasure>[Measures].[Total Due]</DefaultMeasure>
   <MeasureGroups>
     <MeasureGroup dwd:design-time-name="25289163-6f88-4fd6-b5b8-b624cb6e8d7c">
       <ID>Sales Order Header</ID>

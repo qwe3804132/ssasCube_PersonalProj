@@ -47,7 +47,7 @@
       </ObjectSnapshot>
       <ObjectSnapshot>
         <Type>Microsoft.AnalysisServices.Cube</Type>
-        <TimeStamp>zFnbLZwUT4BgsZCJ0AYT4xGxhzY=2019-05-14 8:21:55 PM2019-05-14 1:17:42 PMHPOLdbbpVGzeejZ6smH7AlBcXng=2019-05-14 1:17:42 PM2019-05-14 1:17:42 PM</TimeStamp>
+        <TimeStamp>jko7mXtleQrAtkv1316rE38+ImY=2019-05-14 8:45:58 PM2019-05-14 1:17:42 PMHPOLdbbpVGzeejZ6smH7AlBcXng=2019-05-14 1:17:42 PM2019-05-14 1:17:42 PM</TimeStamp>
         <ID>
           <String>My First Sales Cube</String>
         </ID>
@@ -64,5 +64,5 @@
   </Snapshot>
   <AssemblyLocations />
   <ProcessingComplete>true</ProcessingComplete>
-  <LastDeployed>2019-05-15T00:24:52.27Z</LastDeployed>
+  <LastDeployed>2019-05-15T00:46:03.473333Z</LastDeployed>
 </DeploymentSnapshot>

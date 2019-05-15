@@ -6,6 +6,61 @@
   <Annotations>
     <Annotation>
       <Name>http://schemas.microsoft.com/DataWarehouse/Designer/1.0:DiagramLayout</Name>
+      <Value>
+        <dds xmlns="">
+          <diagram fontclsid="{0BE35203-8F91-11CE-9DE3-00AA004BB851}" mouseiconclsid="{0BE35204-8F91-11CE-9DE3-00AA004BB851}" defaultlayout="MSDDS.Rectilinear" defaultlineroute="MSDDS.Rectilinear" version="7" nextobject="4" scale="100" pagebreakanchorx="0" pagebreakanchory="0" pagebreaksizex="0" pagebreaksizey="0" scrollleft="-9432" scrolltop="-1710" gridx="150" gridy="150" marginx="5000" marginy="5000" zoom="100" x="23469" y="14459" backcolor="16777215" defaultpersistence="2" PrintPageNumbersMode="3" PrintMarginTop="0" PrintMarginBottom="635" PrintMarginLeft="0" PrintMarginRight="0" marqueeselectionmode="0" mousepointer="0" snaptogrid="0" autotypeannotation="1" showscrollbars="0" viewpagebreaks="0" donotforceconnectorsbehindshapes="1" backpictureclsid="{00000000-0000-0000-0000-000000000000}">
+            <font>
+              <ddsxmlobjectstreamwrapper binary="0100000090019e330100065461686f6d61" />
+            </font>
+            <mouseicon>
+              <ddsxmlobjectstreamwrapper binary="6c74000000000000" />
+            </mouseicon>
+          </diagram>
+          <layoutmanager>
+            <ddsxmlobj />
+          </layoutmanager>
+          <ddscontrol controlprogid="DdsShapes.DdsObjectManagedBridge" tooltip="DimProduct" left="20" top="0" logicalid="1" controlid="1" masterid="0" hint1="0" hint2="0" width="4114" height="5000" noresize="0" nomove="0" nodefaultattachpoints="0" autodrag="1" usedefaultiddshape="1" selectable="1" showselectionhandles="1" allownudging="1" isannotation="0" dontautolayout="0" groupcollapsed="0" tabstop="1" visible="1" snaptogrid="0">
+            <control>
+              <ddsxmlobjectstreaminitwrapper binary="000c00001210000088130000" />
+            </control>
+            <layoutobject>
+              <ddsxmlobj>
+                <property name="LogicalObject" value="dbo_DimProduct" vartype="8" />
+              </ddsxmlobj>
+            </layoutobject>
+            <shape groupshapeid="0" groupnode="0" />
+          </ddscontrol>
+          <ddscontrol controlprogid="DdsShapes.DdsObjectManagedBridge" tooltip="FactProductInventory" left="577" top="7400" logicalid="2" controlid="2" masterid="0" hint1="0" hint2="0" width="3000" height="3188" noresize="0" nomove="0" nodefaultattachpoints="0" autodrag="1" usedefaultiddshape="1" selectable="1" showselectionhandles="1" allownudging="1" isannotation="0" dontautolayout="0" groupcollapsed="0" tabstop="1" visible="1" snaptogrid="0">
+            <control>
+              <ddsxmlobjectstreaminitwrapper binary="000c0000b80b0000740c0000" />
+            </control>
+            <layoutobject>
+              <ddsxmlobj>
+                <property name="LogicalObject" value="dbo_FactProductInventory" vartype="8" />
+              </ddsxmlobj>
+            </layoutobject>
+            <shape groupshapeid="0" groupnode="0" />
+          </ddscontrol>
+          <ddscontrol controlprogid="MSDDS.Polyline" left="1678" top="4501" logicalid="3" controlid="3" masterid="0" hint1="0" hint2="0" width="799" height="3199" noresize="0" nomove="0" nodefaultattachpoints="1" autodrag="0" usedefaultiddshape="0" selectable="1" showselectionhandles="0" allownudging="1" isannotation="0" dontautolayout="0" groupcollapsed="0" tabstop="1" visible="1" snaptogrid="0">
+            <control>
+              <ddsxmlobj>
+                <polyline endtypedst="6" endtypesrc="3" usercolor="0" linestyle="0" linerender="1" customendtypedstid="0" customendtypesrcid="0" adornsvisible="1" />
+              </ddsxmlobj>
+            </control>
+            <layoutobject>
+              <ddsxmlobj>
+                <property name="LogicalObject" value="dataSet.Relations[FK_FactProductInventory_DimProduct]" vartype="8" />
+                <property name="Virtual" value="0" vartype="11" />
+                <property name="VisibleAP" value="0" vartype="3" />
+              </ddsxmlobj>
+            </layoutobject>
+            <connector lineroutestyle="MSDDS.Rectilinear" sourceid="1" destid="2" sourceattachpoint="7" destattachpoint="4" segmenteditmode="0" bendpointeditmode="0" bendpointvisibility="0" relatedid="0" virtual="0">
+              <point x="2077" y="5000" />
+              <point x="2077" y="7400" />
+            </connector>
+          </ddscontrol>
+        </dds>
+      </Value>
     </Annotation>
     <Annotation>
       <Name>http://schemas.microsoft.com/DataWarehouse/Designer/1.0:ShowFriendlyNames</Name>
@@ -21,15 +76,15 @@
     </Annotation>
     <Annotation>
       <Name>http://schemas.microsoft.com/DataWarehouse/Designer/1.0:DiagramViewPortLeft</Name>
-      <Value>0</Value>
+      <Value>-9432</Value>
     </Annotation>
     <Annotation>
       <Name>http://schemas.microsoft.com/DataWarehouse/Designer/1.0:DiagramViewPortTop</Name>
-      <Value>0</Value>
+      <Value>-1710</Value>
     </Annotation>
     <Annotation>
       <Name>http://schemas.microsoft.com/DataWarehouse/Designer/1.0:DiagramBoundingLeft</Name>
-      <Value>0</Value>
+      <Value>20</Value>
     </Annotation>
     <Annotation>
       <Name>http://schemas.microsoft.com/DataWarehouse/Designer/1.0:DiagramBoundingTop</Name>
@@ -42,10 +97,22 @@
   </Annotations>
   <LastProcessed>0001-01-01T00:00:00Z</LastProcessed>
   <State>Unprocessed</State>
+  <Translations>
+    <Translation dwd:design-time-name="0845632a-8693-4f61-b55c-9859c0300b9f">
+      <Language>2052</Language>
+      <Caption>产品模型</Caption>
+    </Translation>
+  </Translations>
   <Dimensions>
     <Dimension dwd:design-time-name="e7378528-41c5-43ab-a100-8f9d96a5a932">
       <ID>Dim Product</ID>
       <Name>Dim Product</Name>
+      <Translations>
+        <Translation dwd:design-time-name="75a1ec9f-1778-440e-a50d-b24d073a37ea">
+          <Language>2052</Language>
+          <Caption>产品维度</Caption>
+        </Translation>
+      </Translations>
       <DimensionID>Dim Product</DimensionID>
       <Attributes>
         <Attribute dwd:design-time-name="afe3f662-5ddf-47ee-b797-7c31e8b1ca7a">
@@ -56,6 +123,9 @@
         </Attribute>
         <Attribute dwd:design-time-name="d0bf2b27-0a09-4434-b935-3bdd4c36c8cd">
           <AttributeID>English Description</AttributeID>
+        </Attribute>
+        <Attribute dwd:design-time-name="1bf08056-dcb4-441e-b77c-ef648a71fd3c">
+          <AttributeID>English Product Name</AttributeID>
         </Attribute>
       </Attributes>
     </Dimension>
@@ -79,6 +149,12 @@
               <ColumnID>UnitsIn</ColumnID>
             </Source>
           </Source>
+          <Translations>
+            <Translation dwd:design-time-name="276b5153-7e82-49d0-990c-9863d3d968d9">
+              <Language>2052</Language>
+              <Caption>单元进入</Caption>
+            </Translation>
+          </Translations>
         </Measure>
         <Measure dwd:design-time-name="5f4715f8-2941-4556-b3d7-7a78e9320d52">
           <ID>Units Out</ID>
@@ -90,6 +166,12 @@
               <ColumnID>UnitsOut</ColumnID>
             </Source>
           </Source>
+          <Translations>
+            <Translation dwd:design-time-name="0a53bcad-5386-42af-8ace-b5a3c60aa450">
+              <Language>2052</Language>
+              <Caption>单元出去</Caption>
+            </Translation>
+          </Translations>
         </Measure>
         <Measure dwd:design-time-name="4d796269-9820-4835-ab31-b7a4498c0d57">
           <ID>Units Balance</ID>
@@ -101,6 +183,12 @@
               <ColumnID>UnitsBalance</ColumnID>
             </Source>
           </Source>
+          <Translations>
+            <Translation dwd:design-time-name="22767e7c-e63d-47c5-b15a-7a631ad6c8fb">
+              <Language>2052</Language>
+              <Caption>单元平衡</Caption>
+            </Translation>
+          </Translations>
         </Measure>
       </Measures>
       <StorageMode>Molap</StorageMode>

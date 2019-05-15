@@ -61,7 +61,7 @@
       </ObjectSnapshot>
       <ObjectSnapshot>
         <Type>Microsoft.AnalysisServices.Dimension</Type>
-        <TimeStamp>pPYUhZRNHKgSQKbep4efhXm59C0=2019-05-15 10:58:23 AM2019-05-15 10:58:23 AM</TimeStamp>
+        <TimeStamp>eQrZviZmDV/rEercHFfjIA3S14k=2019-05-15 11:10:17 AM2019-05-15 10:58:23 AM</TimeStamp>
         <ID>
           <String>Dim Product</String>
         </ID>
@@ -75,7 +75,7 @@
       </ObjectSnapshot>
       <ObjectSnapshot>
         <Type>Microsoft.AnalysisServices.Cube</Type>
-        <TimeStamp>oDiVam9TtHwKSYee25EpDKIAmkQ=2019-05-15 10:59:33 AM2019-05-15 10:59:33 AM0sXd651rhgFtOAOr8nfJUOjfFnw=2019-05-15 10:59:33 AM2019-05-15 10:59:33 AM</TimeStamp>
+        <TimeStamp>Nas/NCdMakUF+TbfRyCFiVWGBTo=2019-05-15 11:14:54 AM2019-05-15 10:59:33 AM0sXd651rhgFtOAOr8nfJUOjfFnw=2019-05-15 10:59:33 AM2019-05-15 10:59:33 AM</TimeStamp>
         <ID>
           <String>Adventure Works DW2014 Product Cube</String>
         </ID>
@@ -92,5 +92,5 @@
   </Snapshot>
   <AssemblyLocations />
   <ProcessingComplete>true</ProcessingComplete>
-  <LastDeployed>2019-05-15T15:03:56.423333Z</LastDeployed>
+  <LastDeployed>2019-05-15T15:15:10.926667Z</LastDeployed>
 </DeploymentSnapshot>

@@ -68,7 +68,7 @@
       </ObjectSnapshot>
       <ObjectSnapshot>
         <Type>Microsoft.AnalysisServices.Dimension</Type>
-        <TimeStamp>bOhMna3Pi1VnO4O7VGBmnbwX9y8=2019-05-15 12:46:28 PM2019-05-15 12:44:53 PM</TimeStamp>
+        <TimeStamp>f93tmeRco9bLJW81TLrNHL9xuqk=2019-05-16 10:39:31 AM2019-05-15 12:44:53 PM</TimeStamp>
         <ID>
           <String>Dim Date</String>
         </ID>
@@ -99,5 +99,5 @@
   </Snapshot>
   <AssemblyLocations />
   <ProcessingComplete>true</ProcessingComplete>
-  <LastDeployed>2019-05-15T16:46:43.736667Z</LastDeployed>
+  <LastDeployed>2019-05-16T14:39:32.21Z</LastDeployed>
 </DeploymentSnapshot>

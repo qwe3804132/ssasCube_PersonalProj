@@ -27,6 +27,16 @@
         </ProjectItem>
       </Dependencies>
     </ProjectItem>
+    <ProjectItem>
+      <Name>FactResellerSalesCube.cube</Name>
+      <FullPath>FactResellerSalesCube.cube</FullPath>
+      <Dependencies>
+        <ProjectItem>
+          <Name>FactResellerSalesCube.partitions</Name>
+          <FullPath>FactResellerSalesCube.partitions</FullPath>
+        </ProjectItem>
+      </Dependencies>
+    </ProjectItem>
   </Cubes>
   <Dimensions>
     <ProjectItem>
@@ -44,6 +54,22 @@
     <ProjectItem>
       <Name>Dim Date.dim</Name>
       <FullPath>Dim Date.dim</FullPath>
+    </ProjectItem>
+    <ProjectItem>
+      <Name>Dim Date 1.dim</Name>
+      <FullPath>Dim Date 1.dim</FullPath>
+    </ProjectItem>
+    <ProjectItem>
+      <Name>Dim Sales Territory.dim</Name>
+      <FullPath>Dim Sales Territory.dim</FullPath>
+    </ProjectItem>
+    <ProjectItem>
+      <Name>Dim Reseller.dim</Name>
+      <FullPath>Dim Reseller.dim</FullPath>
+    </ProjectItem>
+    <ProjectItem>
+      <Name>Fact Reseller Sales.dim</Name>
+      <FullPath>Fact Reseller Sales.dim</FullPath>
     </ProjectItem>
   </Dimensions>
   <DataSources>
@@ -64,6 +90,10 @@
     <ProjectItem>
       <Name>Adventure Works DW2014 View.dsv</Name>
       <FullPath>Adventure Works DW2014 View.dsv</FullPath>
+    </ProjectItem>
+    <ProjectItem>
+      <Name>DataSourceViewForPractice.dsv</Name>
+      <FullPath>DataSourceViewForPractice.dsv</FullPath>
     </ProjectItem>
   </DataSourceViews>
   <Roles>

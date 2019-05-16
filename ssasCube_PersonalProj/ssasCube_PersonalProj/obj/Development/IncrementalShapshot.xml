@@ -46,6 +46,13 @@
         </ID>
       </ObjectSnapshot>
       <ObjectSnapshot>
+        <Type>Microsoft.AnalysisServices.DataSourceView</Type>
+        <TimeStamp>/87zI3L/b0VlSZQCrwoOs7KVob4=2019-05-16 11:16:21 AM2019-05-16 11:13:09 AM</TimeStamp>
+        <ID>
+          <String>DataSourceViewForPractice</String>
+        </ID>
+      </ObjectSnapshot>
+      <ObjectSnapshot>
         <Type>Microsoft.AnalysisServices.Dimension</Type>
         <TimeStamp>uaGmjWy4FcIP7vniIxolh5eMCo4=2019-05-14 1:17:42 PM2019-05-14 1:17:42 PM</TimeStamp>
         <ID>
@@ -74,6 +81,34 @@
         </ID>
       </ObjectSnapshot>
       <ObjectSnapshot>
+        <Type>Microsoft.AnalysisServices.Dimension</Type>
+        <TimeStamp>abXuR4BndTbfozN3il6wp0vP6o0=2019-05-16 11:24:52 AM2019-05-16 11:16:21 AM</TimeStamp>
+        <ID>
+          <String>Dim Date 1</String>
+        </ID>
+      </ObjectSnapshot>
+      <ObjectSnapshot>
+        <Type>Microsoft.AnalysisServices.Dimension</Type>
+        <TimeStamp>B3ExZB4gfE7GkcOvDTn8mezM6cc=2019-05-16 11:16:21 AM2019-05-16 11:16:21 AM</TimeStamp>
+        <ID>
+          <String>Dim Sales Territory</String>
+        </ID>
+      </ObjectSnapshot>
+      <ObjectSnapshot>
+        <Type>Microsoft.AnalysisServices.Dimension</Type>
+        <TimeStamp>3Z40pOACoGH8UVyio9RGPvNWe4w=2019-05-16 11:46:19 AM2019-05-16 11:16:21 AM</TimeStamp>
+        <ID>
+          <String>Dim Reseller</String>
+        </ID>
+      </ObjectSnapshot>
+      <ObjectSnapshot>
+        <Type>Microsoft.AnalysisServices.Dimension</Type>
+        <TimeStamp>rLcGSxSikZ00J28Qkljf5pZUDxI=2019-05-16 11:16:21 AM2019-05-16 11:16:21 AM</TimeStamp>
+        <ID>
+          <String>Fact Reseller Sales</String>
+        </ID>
+      </ObjectSnapshot>
+      <ObjectSnapshot>
         <Type>Microsoft.AnalysisServices.Cube</Type>
         <TimeStamp>jko7mXtleQrAtkv1316rE38+ImY=2019-05-14 8:45:58 PM2019-05-14 1:17:42 PMHPOLdbbpVGzeejZ6smH7AlBcXng=2019-05-14 1:17:42 PM2019-05-14 1:17:42 PM</TimeStamp>
         <ID>
@@ -85,6 +120,13 @@
         <TimeStamp>o5gl+zQLtKULLKK4lP9xtCayixM=2019-05-15 12:46:40 PM2019-05-15 10:59:33 AM0sXd651rhgFtOAOr8nfJUOjfFnw=2019-05-15 10:59:33 AM2019-05-15 10:59:33 AM</TimeStamp>
         <ID>
           <String>Adventure Works DW2014 Product Cube</String>
+        </ID>
+      </ObjectSnapshot>
+      <ObjectSnapshot>
+        <Type>Microsoft.AnalysisServices.Cube</Type>
+        <TimeStamp>LUu2HiUTl8v/9CoP6emCq+OFsW8=2019-05-16 11:46:19 AM2019-05-16 11:16:21 AMsBap7qfT1Kij4Sx93cT3ZC60Ycw=2019-05-16 11:16:21 AM2019-05-16 11:16:21 AM</TimeStamp>
+        <ID>
+          <String>FactResellerSalesCube</String>
         </ID>
       </ObjectSnapshot>
     </ObjectSnapshots>
@@ -99,5 +141,5 @@
   </Snapshot>
   <AssemblyLocations />
   <ProcessingComplete>true</ProcessingComplete>
-  <LastDeployed>2019-05-16T14:39:32.21Z</LastDeployed>
+  <LastDeployed>2019-05-16T15:46:21.636667Z</LastDeployed>
 </DeploymentSnapshot>

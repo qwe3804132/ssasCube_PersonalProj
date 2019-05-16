@@ -1,4 +1,29 @@
 ﻿<Infos>
+  <Item name="FactResellerSalesCube.cube">
+    <Time>636936039791109131</Time>
+    <Hash length="20">
+      <b>45</b>
+      <b>75</b>
+      <b>182</b>
+      <b>30</b>
+      <b>37</b>
+      <b>19</b>
+      <b>151</b>
+      <b>203</b>
+      <b>255</b>
+      <b>244</b>
+      <b>42</b>
+      <b>15</b>
+      <b>233</b>
+      <b>233</b>
+      <b>130</b>
+      <b>171</b>
+      <b>227</b>
+      <b>133</b>
+      <b>177</b>
+      <b>111</b>
+    </Hash>
+  </Item>
   <Item name="Adventure Works2014.ds">
     <Time>636934374380656869</Time>
     <Hash length="20">
@@ -22,6 +47,81 @@
       <b>158</b>
       <b>188</b>
       <b>250</b>
+    </Hash>
+  </Item>
+  <Item name="Dim Reseller.dim">
+    <Time>636936039791394105</Time>
+    <Hash length="20">
+      <b>221</b>
+      <b>158</b>
+      <b>52</b>
+      <b>164</b>
+      <b>224</b>
+      <b>2</b>
+      <b>160</b>
+      <b>97</b>
+      <b>252</b>
+      <b>81</b>
+      <b>92</b>
+      <b>162</b>
+      <b>163</b>
+      <b>212</b>
+      <b>70</b>
+      <b>62</b>
+      <b>243</b>
+      <b>86</b>
+      <b>123</b>
+      <b>140</b>
+    </Hash>
+  </Item>
+  <Item name="Dim Date 1.dim">
+    <Time>636936026927959114</Time>
+    <Hash length="20">
+      <b>105</b>
+      <b>181</b>
+      <b>238</b>
+      <b>71</b>
+      <b>128</b>
+      <b>103</b>
+      <b>117</b>
+      <b>54</b>
+      <b>223</b>
+      <b>163</b>
+      <b>51</b>
+      <b>119</b>
+      <b>138</b>
+      <b>94</b>
+      <b>176</b>
+      <b>167</b>
+      <b>75</b>
+      <b>207</b>
+      <b>234</b>
+      <b>141</b>
+    </Hash>
+  </Item>
+  <Item name="DataSourceViewForPractice.dsv">
+    <Time>636936021814459111</Time>
+    <Hash length="20">
+      <b>255</b>
+      <b>206</b>
+      <b>243</b>
+      <b>35</b>
+      <b>114</b>
+      <b>255</b>
+      <b>111</b>
+      <b>69</b>
+      <b>101</b>
+      <b>73</b>
+      <b>148</b>
+      <b>2</b>
+      <b>175</b>
+      <b>10</b>
+      <b>14</b>
+      <b>179</b>
+      <b>178</b>
+      <b>149</b>
+      <b>161</b>
+      <b>190</b>
     </Hash>
   </Item>
   <Item name="Dim Product.dim">
@@ -72,6 +172,31 @@
       <b>140</b>
       <b>10</b>
       <b>142</b>
+    </Hash>
+  </Item>
+  <Item name="FactResellerSalesCube.partitions">
+    <Time>636936021814864199</Time>
+    <Hash length="20">
+      <b>176</b>
+      <b>22</b>
+      <b>169</b>
+      <b>238</b>
+      <b>167</b>
+      <b>211</b>
+      <b>212</b>
+      <b>168</b>
+      <b>163</b>
+      <b>225</b>
+      <b>44</b>
+      <b>125</b>
+      <b>221</b>
+      <b>196</b>
+      <b>247</b>
+      <b>100</b>
+      <b>46</b>
+      <b>180</b>
+      <b>97</b>
+      <b>204</b>
     </Hash>
   </Item>
   <Item name="Adventure Works DW2014 Product Cube.cube">
@@ -172,6 +297,31 @@
       <b>62</b>
       <b>34</b>
       <b>102</b>
+    </Hash>
+  </Item>
+  <Item name="Dim Sales Territory.dim">
+    <Time>636936021815584191</Time>
+    <Hash length="20">
+      <b>7</b>
+      <b>113</b>
+      <b>49</b>
+      <b>100</b>
+      <b>30</b>
+      <b>32</b>
+      <b>124</b>
+      <b>78</b>
+      <b>198</b>
+      <b>145</b>
+      <b>195</b>
+      <b>175</b>
+      <b>13</b>
+      <b>57</b>
+      <b>252</b>
+      <b>153</b>
+      <b>236</b>
+      <b>204</b>
+      <b>233</b>
+      <b>199</b>
     </Hash>
   </Item>
   <Item name="Ship Method.dim">
@@ -297,6 +447,31 @@
       <b>46</b>
       <b>17</b>
       <b>72</b>
+    </Hash>
+  </Item>
+  <Item name="Fact Reseller Sales.dim">
+    <Time>636936021815919121</Time>
+    <Hash length="20">
+      <b>172</b>
+      <b>183</b>
+      <b>6</b>
+      <b>75</b>
+      <b>20</b>
+      <b>162</b>
+      <b>145</b>
+      <b>157</b>
+      <b>52</b>
+      <b>39</b>
+      <b>111</b>
+      <b>16</b>
+      <b>146</b>
+      <b>88</b>
+      <b>223</b>
+      <b>230</b>
+      <b>150</b>
+      <b>84</b>
+      <b>15</b>
+      <b>18</b>
     </Hash>
   </Item>
   <Item name="Adventure Works DW2014.ds">

@@ -117,7 +117,7 @@
       </ObjectSnapshot>
       <ObjectSnapshot>
         <Type>Microsoft.AnalysisServices.Cube</Type>
-        <TimeStamp>o5gl+zQLtKULLKK4lP9xtCayixM=2019-05-15 12:46:40 PM2019-05-15 10:59:33 AM0sXd651rhgFtOAOr8nfJUOjfFnw=2019-05-15 10:59:33 AM2019-05-15 10:59:33 AM</TimeStamp>
+        <TimeStamp>Fs8nYv9gRsf6XTMgDsjkhptCAQo=2019-05-18 12:12:59 PM2019-05-15 10:59:33 AM0sXd651rhgFtOAOr8nfJUOjfFnw=2019-05-15 10:59:33 AM2019-05-15 10:59:33 AM</TimeStamp>
         <ID>
           <String>Adventure Works DW2014 Product Cube</String>
         </ID>
@@ -127,6 +127,13 @@
         <TimeStamp>LUu2HiUTl8v/9CoP6emCq+OFsW8=2019-05-16 11:46:19 AM2019-05-16 11:16:21 AMsBap7qfT1Kij4Sx93cT3ZC60Ycw=2019-05-16 11:16:21 AM2019-05-16 11:16:21 AM</TimeStamp>
         <ID>
           <String>FactResellerSalesCube</String>
+        </ID>
+      </ObjectSnapshot>
+      <ObjectSnapshot>
+        <Type>Microsoft.AnalysisServices.Role</Type>
+        <TimeStamp>/AywBFvWdxCvBX3uQlv/A8UKgOc=2019-05-14 1:36:42 PM2019-05-14 1:36:42 PM</TimeStamp>
+        <ID>
+          <String>Role</String>
         </ID>
       </ObjectSnapshot>
     </ObjectSnapshots>
@@ -141,5 +148,5 @@
   </Snapshot>
   <AssemblyLocations />
   <ProcessingComplete>true</ProcessingComplete>
-  <LastDeployed>2019-05-16T17:10:51.133333Z</LastDeployed>
+  <LastDeployed>2019-05-18T16:13:22.416667Z</LastDeployed>
 </DeploymentSnapshot>

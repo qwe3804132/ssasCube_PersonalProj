@@ -124,7 +124,7 @@
       </ObjectSnapshot>
       <ObjectSnapshot>
         <Type>Microsoft.AnalysisServices.Cube</Type>
-        <TimeStamp>LUu2HiUTl8v/9CoP6emCq+OFsW8=2019-05-16 11:46:19 AM2019-05-16 11:16:21 AMsBap7qfT1Kij4Sx93cT3ZC60Ycw=2019-05-16 11:16:21 AM2019-05-16 11:16:21 AM</TimeStamp>
+        <TimeStamp>EicVFaMM16QVwlyx8deAzK1jNyo=2019-05-18 12:44:34 PM2019-05-16 11:16:21 AMsBap7qfT1Kij4Sx93cT3ZC60Ycw=2019-05-16 11:16:21 AM2019-05-16 11:16:21 AM</TimeStamp>
         <ID>
           <String>FactResellerSalesCube</String>
         </ID>
@@ -148,5 +148,5 @@
   </Snapshot>
   <AssemblyLocations />
   <ProcessingComplete>true</ProcessingComplete>
-  <LastDeployed>2019-05-18T16:13:22.416667Z</LastDeployed>
+  <LastDeployed>2019-05-18T16:44:43.216667Z</LastDeployed>
 </DeploymentSnapshot>

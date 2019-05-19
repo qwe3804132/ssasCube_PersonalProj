@@ -40,7 +40,7 @@
       </ObjectSnapshot>
       <ObjectSnapshot>
         <Type>Microsoft.AnalysisServices.DataSourceView</Type>
-        <TimeStamp>ky2D3nG/2OiUJJLI/avTtjjAFqc=2019-05-15 11:35:31 AM2019-05-15 10:57:18 AM</TimeStamp>
+        <TimeStamp>hQ6qX3djoGenCozqG7WSKOJVld0=2019-05-18 9:22:45 PM2019-05-15 10:57:18 AM</TimeStamp>
         <ID>
           <String>Adventure Works DW2014 View</String>
         </ID>
@@ -75,7 +75,7 @@
       </ObjectSnapshot>
       <ObjectSnapshot>
         <Type>Microsoft.AnalysisServices.Dimension</Type>
-        <TimeStamp>tURGAgqD4tbt1fNm7q/mEX4YPuE=2019-05-18 9:08:47 PM2019-05-15 12:44:53 PM</TimeStamp>
+        <TimeStamp>mdI2HBEpRixPRAuz9YlKwu4k51E=2019-05-18 9:29:50 PM2019-05-15 12:44:53 PM</TimeStamp>
         <ID>
           <String>Dim Date</String>
         </ID>
@@ -117,7 +117,7 @@
       </ObjectSnapshot>
       <ObjectSnapshot>
         <Type>Microsoft.AnalysisServices.Cube</Type>
-        <TimeStamp>Fs8nYv9gRsf6XTMgDsjkhptCAQo=2019-05-18 12:12:59 PM2019-05-15 10:59:33 AM0sXd651rhgFtOAOr8nfJUOjfFnw=2019-05-15 10:59:33 AM2019-05-15 10:59:33 AM</TimeStamp>
+        <TimeStamp>Fs8nYv9gRsf6XTMgDsjkhptCAQo=2019-05-18 9:24:08 PM2019-05-15 10:59:33 AM0sXd651rhgFtOAOr8nfJUOjfFnw=2019-05-15 10:59:33 AM2019-05-15 10:59:33 AM</TimeStamp>
         <ID>
           <String>Adventure Works DW2014 Product Cube</String>
         </ID>
@@ -148,5 +148,5 @@
   </Snapshot>
   <AssemblyLocations />
   <ProcessingComplete>true</ProcessingComplete>
-  <LastDeployed>2019-05-19T01:08:50.886667Z</LastDeployed>
+  <LastDeployed>2019-05-19T01:29:55.576667Z</LastDeployed>
 </DeploymentSnapshot>

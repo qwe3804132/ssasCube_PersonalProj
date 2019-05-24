@@ -433,6 +433,7 @@
       <Source xsi:type="DataSourceViewBinding">
         <DataSourceViewID>Adventure Works DW2014 View</DataSourceViewID>
       </Source>
+      <Type>Time</Type>
       <ErrorConfiguration>
         <KeyNotFound>ReportAndStop</KeyNotFound>
         <KeyDuplicate>ReportAndStop</KeyDuplicate>
@@ -485,6 +486,7 @@
         <Attribute>
           <ID>Day Number Of Month</ID>
           <Name>Day Number Of Month</Name>
+          <Type>Days</Type>
           <KeyColumns>
             <KeyColumn>
               <DataType>UnsignedTinyInt</DataType>
@@ -501,6 +503,7 @@
         <Attribute>
           <ID>Month Number Of Year</ID>
           <Name>Month Number Of Year</Name>
+          <Type>Months</Type>
           <KeyColumns>
             <KeyColumn>
               <DataType>SmallInt</DataType>
@@ -538,6 +541,7 @@
         <Attribute>
           <ID>Calendar Quarter</ID>
           <Name>Calendar Quarter</Name>
+          <Type>Quarters</Type>
           <KeyColumns>
             <KeyColumn>
               <DataType>UnsignedTinyInt</DataType>
@@ -554,6 +558,7 @@
         <Attribute>
           <ID>Calendar Year</ID>
           <Name>Calendar Year</Name>
+          <Type>Years</Type>
           <KeyColumns>
             <KeyColumn>
               <DataType>SmallInt</DataType>
@@ -570,6 +575,7 @@
         <Attribute>
           <ID>Calendar Semester</ID>
           <Name>Calendar Semester</Name>
+          <Type>HalfYears</Type>
           <KeyColumns>
             <KeyColumn>
               <DataType>UnsignedTinyInt</DataType>

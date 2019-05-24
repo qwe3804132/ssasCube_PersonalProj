@@ -101,6 +101,7 @@
   <Source xsi:type="DataSourceViewBinding" dwd:design-time-name="bd8acd26-107f-42cd-b8d1-84a93d26a4f8">
     <DataSourceViewID>Adventure Works DW2014 View</DataSourceViewID>
   </Source>
+  <Type>Time</Type>
   <ErrorConfiguration dwd:design-time-name="6fd9159b-00df-41e5-b27d-37212fb6a387">
     <KeyNotFound>ReportAndStop</KeyNotFound>
     <KeyDuplicate>ReportAndStop</KeyDuplicate>
@@ -153,6 +154,7 @@
     <Attribute dwd:design-time-name="3038a748-ef01-462b-8a07-70ad2ead6131">
       <ID>Day Number Of Month</ID>
       <Name>Day Number Of Month</Name>
+      <Type>Days</Type>
       <KeyColumns>
         <KeyColumn dwd:design-time-name="98dc8ab0-0c17-417e-9683-14c95c6eafe0">
           <DataType>UnsignedTinyInt</DataType>
@@ -169,6 +171,7 @@
     <Attribute dwd:design-time-name="848d9a94-5f96-4872-8678-71baae2ef42d">
       <ID>Month Number Of Year</ID>
       <Name>Month Number Of Year</Name>
+      <Type>Months</Type>
       <KeyColumns>
         <KeyColumn dwd:design-time-name="3a0c1261-b42d-4bd9-8b45-911a92cc0d38">
           <DataType>SmallInt</DataType>
@@ -206,6 +209,7 @@
     <Attribute dwd:design-time-name="2a960a1a-7f24-4578-9e8c-c8f628bc4c6d">
       <ID>Calendar Quarter</ID>
       <Name>Calendar Quarter</Name>
+      <Type>Quarters</Type>
       <KeyColumns>
         <KeyColumn dwd:design-time-name="8553e900-de8b-4983-acea-6dfccae8692e">
           <DataType>UnsignedTinyInt</DataType>
@@ -222,6 +226,7 @@
     <Attribute dwd:design-time-name="89b78ab2-4b60-40f0-9240-51f2ee7d15be">
       <ID>Calendar Year</ID>
       <Name>Calendar Year</Name>
+      <Type>Years</Type>
       <KeyColumns>
         <KeyColumn dwd:design-time-name="063b9f6d-e499-4384-b692-75e38273ede4">
           <DataType>SmallInt</DataType>
@@ -238,6 +243,7 @@
     <Attribute dwd:design-time-name="afa62e6b-54d0-42d8-827f-800e14843e85">
       <ID>Calendar Semester</ID>
       <Name>Calendar Semester</Name>
+      <Type>HalfYears</Type>
       <KeyColumns>
         <KeyColumn dwd:design-time-name="ed739d90-92d5-46d1-a2a4-ffb545714a0e">
           <DataType>UnsignedTinyInt</DataType>
